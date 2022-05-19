@@ -1,0 +1,8 @@
+2022/05/10 23:24:20 [emerg] 2636#9620: "upstream" directive is not allowed here in C:\Users\Esdark\Downloads\Compressed\nginx-1.20.2\nginx-1.20.2/conf/nginx.conf:43
+2022/05/10 23:24:59 [error] 12264#19156: *1 CreateFile() "C:\Users\Esdark\Downloads\Compressed\nginx-1.20.2\nginx-1.20.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/05/10 23:25:59 [emerg] 14028#15612: "upstream" directive is not allowed here in C:\Users\Esdark\Downloads\Compressed\nginx-1.20.2\nginx-1.20.2/conf/nginx.conf:43
+2022/05/10 23:31:57 [emerg] 20672#21216: unexpected end of file, expecting ";" or "}" in C:\Users\Esdark\Downloads\Compressed\nginx-1.20.2\nginx-1.20.2/conf/nginx.conf:125
+2022/05/10 23:40:05 [emerg] 12700#1944: unexpected end of file, expecting ";" or "}" in C:\Users\Esdark\Downloads\Compressed\nginx-1.20.2\nginx-1.20.2/conf/nginx.conf:125
+2022/05/10 23:42:18 [emerg] 6956#20372: unexpected end of file, expecting ";" or "}" in C:\Users\Esdark\Downloads\Compressed\nginx-1.20.2\nginx-1.20.2/conf/nginx.conf:125
+2022/05/10 23:42:41 [emerg] 22592#16880: unexpected end of file, expecting ";" or "}" in C:\Users\Esdark\Downloads\Compressed\nginx-1.20.2\nginx-1.20.2/conf/nginx.conf:125
+2022/05/10 23:44:47 [emerg] 15044#15688: unexpected end of file, expecting ";" or "}" in C:\Users\Esdark\Downloads\Compressed\nginx-1.20.2\nginx-1.20.2/conf/nginx.conf:125
